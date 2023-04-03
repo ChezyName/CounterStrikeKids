@@ -32,6 +32,12 @@
 			"allowJoinInProgress": true,
 			"allowSquadFillOption": true,
 			"version": 1
+		},
+		"ugcLocalization":
+		{
+			"nativeCulture": "en",
+			"culturesToGenerate": [],
+			"poFormat": "Unreal"
 		}
 	},
 	"bindings":
